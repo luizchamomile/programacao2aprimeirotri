@@ -9,6 +9,10 @@ header{
     width: 13%;
     justify-content: left;
  }
+
+ .lista-cabecalho{
+    justify-content: space-between;
+ }
   
     
   
